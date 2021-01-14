@@ -24,7 +24,8 @@
   </head>
   <body>
     <header class="header">
-      <div class="logo-header"><img src="logo1.png"/></div>
+      <div class="logo-header"><a href="/"><img src="./img/logo1.png"/></a></div>
+      <div class="nav-container">
         <nav class="navigation">
           <ul>
             <li><a title="Projetos" href="/projetos">Projetos</a></li>
@@ -61,5 +62,6 @@
           </ul>
         </nav>
         <!--menu-mobile-->
+        </div><!-- nav-container -->
     </header>
     <!--header-->
