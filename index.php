@@ -1,7 +1,6 @@
 <?php require 'header.php' ?>
-  
-  <section class="main">
-    <div class="slider-container">
+  <section class="full-page">
+  <div class="slider-container">
       <ul class="rslides">
         <li>
           <video width="100%" autoplay loop muted playsinline>
@@ -22,11 +21,12 @@
         </li>
         
       </ul>
-      <div class="clear"></div>
     </div>
-    <img class="logotipo" src="./img/avatar_bvd.png">
-    
-</section>
+
+  </section>
+  <section class="main">
+    <img class="logotipo" src="./img/avatar_bvd.png">    
+  </section>
   
 
 <?php require 'footer.php' ?>
