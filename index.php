@@ -10,7 +10,7 @@
           </video></li>
         <li>
           <video width="100%" autoplay loop muted playsinline>
-          <source src="./img/video.mp4" type="video/mp4">
+          <source src="./img/video2.mp4" type="video/mp4">
             Your browser does not support the video tag.
           </video></li>
         </li>
