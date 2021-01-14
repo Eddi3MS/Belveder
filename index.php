@@ -24,8 +24,7 @@
     </div>
 
   </section>
-  <section class="holder">
-       
+  <section class="holder">      
   </section>
   
 
