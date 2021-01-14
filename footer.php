@@ -1,5 +1,6 @@
 <footer class="footer">
     <div class="logo-footer">
+        <img src="./img/logo1.png" />
     </div>
     <div class="icones-footer">
         <div class="icones-footer1">
