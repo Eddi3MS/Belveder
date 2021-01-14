@@ -1,13 +1,17 @@
 <footer class="footer">
-    <div class="container  informacao-footer">
-        <h3>Contato</h3>
-        <p><i class="fas fa-envelope"></i>contato.eddi3@hotmail.com</p>
-        <p><i class="fas fa-phone-square-alt"></i>+55 37 99985-3557</p>
-        <p><i class="fas fa-map-marker-alt"></i>Minas Gerais - Brazil</p>
+    <div class="logo-footer">
     </div>
-    <div class="divisao"></div>
-    <div class="container  copyright">
-        <p>Copyright © <?php echo date('Y') ?> Eddi3 Web Developer | Todos os direitos reservados.</p>
+    <div class="icones-footer">
+        <div class="icones-footer1">
+            <i class="fab fa-instagram"></i>
+            <i class="fab fa-facebook-f"></i>
+            <i class="fab fa-linkedin-in"></i>
+            <i class="fab fa-whatsapp"></i>
+            <i class="fab fa-behance"></i>
+        </div>
+        <div class="icones-footer2">
+            <p>contato@blvdr.com.br</p>
+        </div>
     </div>
     <!--container-->
 </footer>
