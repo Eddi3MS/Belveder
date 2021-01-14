@@ -36,7 +36,7 @@
                <a title="Sobre" href="#">Sobre</a>
              </li>
              <li>
-               <a title="Contato" href="#">Contato</a>
+               <a title="Contato" href="/contato">Contato</a>
              </li>
           </ul>
         </nav>
