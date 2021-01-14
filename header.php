@@ -25,10 +25,6 @@
   <body>
     <header class="header">
       <div class="container  container-header">
-        <div class="logo">
-          <a href="/"><img src="./img/logo.png" /></a>
-        </div>
-        <!--logo-->
         <nav class="navigation">
           <ul>
             <li><a title="Projetos" href="/projetos">Projetos</a></li>
