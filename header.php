@@ -29,13 +29,13 @@
           <ul>
             <li><a title="Projetos" href="/projetos">Projetos</a></li>
              <li>
-               <a title="Serviços" href="/serviços">Serviços</a>
+               <a title="Serviços" href="#">Serviços</a>
              </li>
              <li>
-               <a title="Sobre" href="/sobre">Sobre</a>
+               <a title="Sobre" href="#">Sobre</a>
              </li>
              <li>
-               <a title="Contato" href="/contato">Contato</a>
+               <a title="Contato" href="#">Contato</a>
              </li>
           </ul>
         </nav>
