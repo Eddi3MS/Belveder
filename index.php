@@ -1,6 +1,6 @@
 <?php require 'header.php' ?>
   
-  <main>
+  <section class="main">
     <div class="slider-container">
       <ul class="rslides">
         <li>
@@ -21,11 +21,10 @@
           </video></li>
         </li>
       </ul>
-      <div class="clear"></div>
     </div>
     <img class="logotipo" src="./img/avatar_bvd.png">
     
-  </main>
+</section>
   
 
 <?php require 'footer.php' ?>
