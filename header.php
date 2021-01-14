@@ -48,20 +48,24 @@
           <div class="bar"></div>
         </div>
 
-        <nav class="menu-mobile">
+        <nav class="nav-mobile">
           <ul>
-            <li><a title="Sobre" href="conhecimentos">Conhecimentos</a></li>
              <li>
-               <a title="Projetos" href="projetos">Projetos</a>
+              <a title="Projetos" href="/projetos">Projetos</a>
              </li>
              <li>
-               <a title="Contato" href="contato">Contato</a>
+               <a title="Serviços" href="/serviços">Serviços</a>
+             </li>
+             <li>
+               <a title="Sobre" href="/sobre">Sobre</a>
+             </li>
+             <li>
+               <a title="Contato" href="/contato">Contato</a>
              </li>
           </ul>
         </nav>
         <!--menu-mobile-->
       </div>
       <!--container-->
-      <div class="clear"></div>
     </header>
     <!--header-->
