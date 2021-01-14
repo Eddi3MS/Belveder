@@ -20,11 +20,12 @@
           </video></li>
         </li>       
       </ul>
+      <img class="logotipo" src="./img/avatar_bvd.png"> 
     </div>
 
   </section>
-  <section class="main">
-    <img class="logotipo" src="./img/avatar_bvd.png">    
+  <section class="holder">
+       
   </section>
   
 
