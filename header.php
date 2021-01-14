@@ -24,7 +24,7 @@
   </head>
   <body>
     <header class="header">
-      <div class="container  container-header">
+      <div class="container">
         <nav class="navigation">
           <ul>
             <li><a title="Projetos" href="/projetos">Projetos</a></li>
