@@ -20,8 +20,8 @@
             Your browser does not support the video tag.
           </video></li>
         </li>
+        <div class="clear"></div>
       </ul>
-      <div class="clear"></div>
     </div>
     <img class="logotipo" src="./img/avatar_bvd.png">
     
