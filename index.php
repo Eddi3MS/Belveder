@@ -21,9 +21,10 @@
           </video></li>
         </li>
       </ul>
+      <div class="clear"></div>
     </div>
     <img class="logotipo" src="./img/avatar_bvd.png">
-    <div class="clear"></div>
+    
   </main>
   
 
