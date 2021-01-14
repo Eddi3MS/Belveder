@@ -23,6 +23,8 @@
       </ul>
     </div>
     <img class="logotipo" src="./img/avatar_bvd.png">
+    <div class="clear"></div>
   </main>
+  
 
 <?php require 'footer.php' ?>
