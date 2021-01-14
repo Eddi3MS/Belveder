@@ -2,9 +2,23 @@
   
   <main>
     <ul class="rslides">
-      <li><img src="1.jpg" alt=""></li>
-      <li><img src="2.jpg" alt=""></li>
-      <li><img src="3.jpg" alt=""></li>
+      <li>
+        <video width="100%" autoplay loop muted playsinline>
+				<source src="./img/video.mp4" type="video/mp4">
+			    Your browser does not support the video tag.
+			  </video></li>
+      <li>
+        <video width="100%" autoplay loop muted playsinline>
+				<source src="./img/video.mp4" type="video/mp4">
+			    Your browser does not support the video tag.
+			  </video></li>
+      </li>
+      <li>
+        <video width="100%" autoplay loop muted playsinline>
+				<source src="./img/video.mp4" type="video/mp4">
+			    Your browser does not support the video tag.
+			  </video></li>
+      </li>
     </ul>
     <img class="logotipo" src="./img/avatar_bvd.png">
   </main>
