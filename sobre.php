@@ -23,25 +23,25 @@
 </section>
 <section class="membros">
   <div class="membro1">
-    <div class="titulos">
+    <div class="titulos1">
       <p>Nome Sobrenome</p>
       <p>Cargo</p>
     </div>
   </div>
   <div class="membro2">
-    <div class="titulos">
+    <div class="titulos2">
       <p>Nome Sobrenome</p>
       <p>Cargo</p>
     </div>
   </div>
   <div class="membro3">
-    <div class="titulos">
+    <div class="titulos3">
       <p>Nome Sobrenome</p>
       <p>Cargo</p>
     </div>
   </div>
   <div class="membro4">
-    <div class="titulos">
+    <div class="titulos4">
       <p>Nome Sobrenome</p>
       <p>Cargo</p>
     </div>
