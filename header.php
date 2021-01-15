@@ -30,7 +30,7 @@
           <ul>
             <li><a title="Projetos" href="/projetos">Projetos</a></li>
              <li>
-               <a title="Serviços" href="#">Serviços</a>
+               <a title="Serviços" href="/servicos">Serviços</a>
              </li>
              <li>
                <a title="Sobre" href="/sobre">Sobre</a>
