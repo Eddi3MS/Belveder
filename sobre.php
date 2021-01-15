@@ -1,5 +1,5 @@
 <?php require 'header.php' ?>
-
+<section class="shadow"></section>
 <section class="sobre">
   <div class="sobre-nos">
   <h1>SOBRE NÓS</h1>
