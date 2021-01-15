@@ -33,7 +33,7 @@
                <a title="Serviços" href="#">Serviços</a>
              </li>
              <li>
-               <a title="Sobre" href="#">Sobre</a>
+               <a title="Sobre" href="/sobre">Sobre</a>
              </li>
              <li>
                <a title="Contato" href="/contato">Contato</a>
