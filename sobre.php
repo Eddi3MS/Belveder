@@ -19,10 +19,10 @@
   <img src="./img/avatar_black.png" />
   </div>  
 </section>
-
+<section class="membros">
   <div class="membro1"></div>
   <div class="membro2"></div>
   <div class="membro3"></div>
   <div class="membro4"></div>
-
+</section>
 <?php require 'footer.php' ?>
