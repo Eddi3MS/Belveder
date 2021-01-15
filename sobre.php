@@ -22,9 +22,17 @@
   </div>  
 </section>
 <section class="membros">
-  <div class="membro1"></div>
-  <div class="membro2"></div>
-  <div class="membro3"></div>
-  <div class="membro4"></div>
+  <div class="membro1">
+    <p>Nome Sobrenome</p> <p>Cargo</p>
+  </div>
+  <div class="membro2">
+  <p>Nome Sobrenome</p> <p>Cargo</p>
+  </div>
+  <div class="membro3">
+  <p>Nome Sobrenome</p> <p>Cargo</p>
+  </div>
+  <div class="membro4">
+  <p>Nome Sobrenome</p> <p>Cargo</p>
+  </div>
 </section>
 <?php require 'footer.php' ?>
