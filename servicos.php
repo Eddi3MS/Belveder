@@ -2,7 +2,7 @@
 <section class="shadow"></section>
 <section class="servicos">
   <div class="titulo-serv">
-    <h1>VISUALIZAÇÃO ARQUITETÔNICA</h1>
+    <h1>VISUALIZAÇÃO <br/>ARQUITETÔNICA</h1>
   </div>
   <div class="titulo-desc">
     <p>
