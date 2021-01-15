@@ -1,6 +1,7 @@
 <?php require 'header.php' ?>
 <section class="shadow"></section>
 <section class="sobre">
+  <span class="linha"></span>
   <div class="sobre-nos">
   <h1>SOBRE NÓS</h1>
   <p>Lorem ipsum, dolor sit amet consectetur 
