@@ -4,8 +4,8 @@
   <div class="contatos">
     <p>contato@blvdr.com.br</p>
     <p>Rio de Janeiro, Brasil</p>
-    <p>+55(21)965590857</p>
-    <div class="icones-footer1">
+    <p>+55 (21) 965590857</p>
+    <div class="icones-contato">
             <i class="fab fa-instagram"></i>
             <i class="fab fa-facebook-f"></i>
             <i class="fab fa-linkedin-in"></i>
