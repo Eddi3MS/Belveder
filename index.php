@@ -22,7 +22,7 @@
     <title>Dev Eddi3 - Belveder</title>
   </head>
   <body>
-<!--     <div class="loader">
+    <div class="pre-loader">
       <img src="img/avatar_bvd.png" />
     </div> -->
     <header class="header">
