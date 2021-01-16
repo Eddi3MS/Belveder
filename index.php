@@ -22,6 +22,28 @@
   </section>
   <section class="holder">      
   </section>
-  
+  <footer class="footer">
+    <div class="logo-footer">
+        <img src="./img/logo1.png" />
+    </div>
+    <div class="icones-footer">
+        <div class="icones-footer1">
+            <i class="fab fa-instagram"></i>
+            <i class="fab fa-facebook-f"></i>
+            <i class="fab fa-linkedin-in"></i>
+            <i class="fab fa-whatsapp"></i>
+            <i class="fab fa-behance"></i>
+        </div>
+        <div class="icones-footer2">
+            <p>contato@blvdr.com.br</p>
+        </div>
+    </div>
+    <!--container-->
+</footer>
+<!--footer-->
+<!-- JavaScript -->
+<script src="js/index.js"></script>
+<!-- JavaScript -->
+</body>
 
-<?php require 'footer.php' ?>
+</html>

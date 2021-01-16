@@ -16,27 +16,33 @@
       Your browser does not support the video tag.
     </video>
   </div>
-
-
+</section>
+<section class="seletor">
+  <div class="seletor-content">
+    <img src="./img/avatar_black.png" alt="logo" />
+    <img src="./icons/armchair.svg" alt="seletor-mobilia" />
+    <img src="./icons/building.svg" alt="seletor-arquitetura" />
+    <img src="./icons/youtube.svg" alt="seletor-videos" />
+  </div>
 </section>
 
 <footer class="footer">
-    <div class="logo-footer">
-        <img src="./img/logo1.png" />
+  <div class="logo-footer">
+    <img src="./img/logo1.png" />
+  </div>
+  <div class="icones-footer">
+    <div class="icones-footer1">
+      <i class="fab fa-instagram"></i>
+      <i class="fab fa-facebook-f"></i>
+      <i class="fab fa-linkedin-in"></i>
+      <i class="fab fa-whatsapp"></i>
+      <i class="fab fa-behance"></i>
     </div>
-    <div class="icones-footer">
-        <div class="icones-footer1">
-            <i class="fab fa-instagram"></i>
-            <i class="fab fa-facebook-f"></i>
-            <i class="fab fa-linkedin-in"></i>
-            <i class="fab fa-whatsapp"></i>
-            <i class="fab fa-behance"></i>
-        </div>
-        <div class="icones-footer2">
-            <p>contato@blvdr.com.br</p>
-        </div>
+    <div class="icones-footer2">
+      <p>contato@blvdr.com.br</p>
     </div>
-    <!--container-->
+  </div>
+  <!--container-->
 </footer>
 <!--footer-->
 <!-- JavaScript -->
