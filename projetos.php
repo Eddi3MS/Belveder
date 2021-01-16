@@ -25,6 +25,16 @@
     <i class="fab fa-youtube"></i>
   </div>
 </section>
+<section class="galeria">
+<div class="i"></div>
+<div class="i"></div>
+<div class="i"></div>
+<div class="i"></div>
+<div class="i"></div>
+<div class="i"></div>
+<div class="i"></div>
+
+</section>
 
 <footer class="footer">
   <div class="logo-footer">
