@@ -77,7 +77,7 @@
   </section>
   <section class="seletor">
     <div class="seletor-content">
-      <img style="width:30px; height: 30px;" src="img/avatar_black.png" alt="logo" />
+      <img src="img/avatar_black.png" alt="logo" />
       <i class="fas fa-chair"></i>
       <i class="far fa-building"></i>
       <i class="fab fa-youtube"></i>
