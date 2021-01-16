@@ -78,6 +78,7 @@
   <section class="seletor">
     
       <img src="img/avatar_black.png" alt="logo" />
+      <span style="font-weight:bold; color: #000; font-size: 28px; padding: 0 15px;">/</span>
       <i class="fas fa-chair"></i>
       <i class="far fa-building"></i>
       <i class="fab fa-youtube"></i>
