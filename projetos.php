@@ -76,12 +76,12 @@
     </div>
   </section>
   <section class="seletor">
-    
-      <img src="img/avatar_black.png" alt="logo" />
-      <span style="font-weight:bold; color: #000; font-size: 28px; padding: 0 15px;">/</span>
-      <i class="fas fa-chair"></i>
-      <i class="far fa-building"></i>
-      <i class="fab fa-youtube"></i>
+
+    <img src="img/avatar_black.png" alt="logo" />
+    <span style="font-weight:bold; color: #000; font-size: 28px; padding: 0 15px;">/</span>
+    <i class="fas fa-chair"></i>
+    <i class="far fa-building"></i>
+    <i class="fab fa-youtube"></i>
 
   </section>
   <section class="galeria">
@@ -129,15 +129,16 @@
     </div>
     <div class="i">
       <video muted loop autoplay playsinline id="galeria-videos" class="galeria-videos">
-        <source src="https://de0dqb7pdorb1.cloudfront.net/111_north2.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-    </div>
-    <div class="i">
-      <video muted loop autoplay playsinline id="galeria-videos" class="galeria-videos">
         <source src="https://de0dqb7pdorb1.cloudfront.net/611_rain_www.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
+    </div>
+    <video muted loop autoplay playsinline id="galeria-videos" class="galeria-videos">
+      <source src="https://de0dqb7pdorb1.cloudfront.net/111_north2.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <div class="i">
+
     </div>
 
   </section>
