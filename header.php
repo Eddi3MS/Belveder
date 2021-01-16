@@ -14,7 +14,6 @@
     />
     <meta name="author" content="Dev Eddi3" />
     <link rel="stylesheet" type="text/css" href="css/style.css" />
-    <script src="js/libs/modernizr.custom.45655.js"></script>
     <script
       src="https://kit.fontawesome.com/8e3d354095.js"
       crossorigin="anonymous"
