@@ -20,3 +20,11 @@ video3.onended = function() {
   video3.style.opacity=0;
   video1.style.opacity=1; 
 }
+
+
+// pre-load
+
+window.addEventListener("load", function () {
+  const loader = document.querySelector(".loader");
+  loader.className += " hidden"; // class "loader hidden"
+});
