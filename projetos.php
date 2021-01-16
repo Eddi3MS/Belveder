@@ -19,10 +19,10 @@
 </section>
 <section class="seletor">
   <div class="seletor-content">
-    <img src="./img/avatar_black.png" alt="logo" />
-    <img src="./icons/armchair.svg" alt="seletor-mobilia" />
-    <img src="./icons/building.svg" alt="seletor-arquitetura" />
-    <img src="./icons/youtube.svg" alt="seletor-videos" />
+    <img style="width:30px; height: 30px;" src="img/avatar_black.png" alt="logo" />
+    <img src="icons/armchair.svg" alt="seletor-mobilia" />
+    <img src="icons/building.svg" alt="seletor-arquitetura" />
+    <img src="icons/youtube.svg" alt="seletor-videos" />
   </div>
 </section>
 
