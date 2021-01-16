@@ -76,12 +76,12 @@
     </div>
   </section>
   <section class="seletor">
-    <div class="seletor-content">
+    
       <img src="img/avatar_black.png" alt="logo" />
       <i class="fas fa-chair"></i>
       <i class="far fa-building"></i>
       <i class="fab fa-youtube"></i>
-    </div>
+
   </section>
   <section class="galeria">
     <div class="i">
