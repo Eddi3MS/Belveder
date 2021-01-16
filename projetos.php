@@ -122,13 +122,13 @@
     </div>
     <div class="i">
       <video muted loop autoplay playsinline id="galeria-videos" class="galeria-videos">
-        <source src="https://de0dqb7pdorb1.cloudfront.net/111_north2.mp4" type="video/mp4">
+        <source src="https://de0dqb7pdorb1.cloudfront.net/cameraY_cinema_www2.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </div>
     <div class="i">
       <video muted loop autoplay playsinline id="galeria-videos" class="galeria-videos">
-        <source src="https://de0dqb7pdorb1.cloudfront.net/cameraY_cinema_www2.mp4" type="video/mp4">
+        <source src="https://de0dqb7pdorb1.cloudfront.net/111_north2.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </div>
