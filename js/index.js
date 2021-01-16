@@ -26,5 +26,5 @@ video3.onended = function() {
 
 window.addEventListener("load", function () {
   const loader = document.querySelector(".pre-loader");
-  loader.className += " hidden"; // class "loader hidden"
+  loader.className += " hidden";
 });
