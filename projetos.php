@@ -94,7 +94,7 @@
         <div class="cover-video">
           <div>
             <h3>Título do Projeto</h3>
-           <a href="#"><p>mais detalhe</p></a>
+           <a href="#"><p>mais detalhes..</p></a>
           </div>
         </div>
       
@@ -108,7 +108,7 @@
         <div class="cover-video">
           <div>
             <h3>Título do Projeto</h3>
-            <a href="#"><p>mais detalhe</p></a>
+            <a href="#"><p>mais detalhes..</p></a>
           </div>
         </div>
       
@@ -122,7 +122,7 @@
         <div class="cover-video">
           <div>
             <h3>Título do Projeto</h3>
-            <a href="#"><p>mais detalhe</p></a>
+            <a href="#"><p>mais detalhes..</p></a>
           </div>
         </div>
       
@@ -136,7 +136,7 @@
         <div class="cover-video">
           <div>
             <h3>Título do Projeto</h3>
-            <a href="#"><p>mais detalhe</p></a>
+            <a href="#"><p>mais detalhes..</p></a>
           </div>
         </div>
       
@@ -150,7 +150,7 @@
         <div class="cover-video">
           <div>
             <h3>Título do Projeto</h3>
-            <a href="#"><p>mais detalhe</p></a>
+            <a href="#"><p>mais detalhes..</p></a>
           </div>
         </div>
       
@@ -164,7 +164,7 @@
         <div class="cover-video">
           <div>
             <h3>Título do Projeto</h3>
-            <a href="#"><p>mais detalhe</p></a>
+            <a href="#"><p>mais detalhes..</p></a>
           </div>
         </div>
       
@@ -178,7 +178,7 @@
         <div class="cover-video">
           <div>
             <h3>Título do Projeto</h3>
-           <a href="#"> <p>mais detalhe</p></a>
+           <a href="#"> <p>mais detalhes..</p></a>
           </div>
         </div>
       
@@ -192,7 +192,7 @@
         <div class="cover-video">
           <div>
             <h3>Título do Projeto</h3>
-            <a href="#"><p>mais detalhe</p></a>
+            <a href="#"><p>mais detalhes..</p></a>
           </div>
         </div>
       
@@ -206,7 +206,7 @@
         <div class="cover-video">
           <div>
             <h3>Título do Projeto</h3>
-            <a href="#"><p>mais detalhe</p></a>
+            <a href="#"><p>mais detalhes..</p></a>
           </div>
         </div>
       
@@ -220,7 +220,7 @@
         <div class="cover-video">
           <div>
             <h3>Título do Projeto</h3>
-            <a href="#"><p>mais detalhe</p></a>
+            <a href="#"><p>mais detalhes..</p></a>
           </div>
         </div>
       
@@ -234,7 +234,7 @@
         <div class="cover-video">
           <div>
             <h3>Título do Projeto</h3>
-            <a href="#"><p>mais detalhe</p> </a>
+            <a href="#"><p>mais detalhes..</p> </a>
           </div>
         </div>
      
@@ -248,7 +248,7 @@
         <div class="cover-video">
           <div>
             <h3>Título do Projeto</h3>
-            <a href="#"><p>mais detalhe</p></a>
+            <a href="#"><p>mais detalhes..</p></a>
           </div>
         </div>
       
