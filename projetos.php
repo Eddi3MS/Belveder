@@ -11,7 +11,6 @@
   <link rel="stylesheet" type="text/css" href="css/style.css" />
   <script src="https://kit.fontawesome.com/8e3d354095.js" crossorigin="anonymous"></script>
   <link rel="shortcut icon" type="image-x/png" href="img/icon.ico" />
-  <link rel="stylesheet" href="venobox/venobox.min.css" type="text/css" media="screen" />
   <title>Dev Eddi3 - Belveder</title>
 </head>
 
@@ -63,7 +62,7 @@
       <video autoplay muted playsinline id="projeto1" class="video-projeto  projeto1">
         <source src="https://de0dqb7pdorb1.cloudfront.net/611_rain_www.mp4" type="video/mp4">
         Your browser does not support the video tag.
-      </video>     
+      </video>
 
       <video muted playsinline id="projeto2" class="video-projeto  projeto2">
         <source src="img/video.mp4" type="video/mp4">
@@ -90,45 +89,10 @@
       <video muted loop autoplay playsinline id="galeria-videos" class="galeria-videos">
         <source src="https://de0dqb7pdorb1.cloudfront.net/111_north2.mp4" type="video/mp4">
         Your browser does not support the video tag.
-      </video>      
-        <div class="cover-video">
-          <a class="venobox" data-autoplay="true" data-vbtype="video" data-gall="Galeria-Projetos" href="https://youtu.be/4oZ9Qt26UVA"><i class="fas fa-play"></i></a>
-        </div>
-    </div>
-    <div class="i">
-      <video muted loop autoplay playsinline id="galeria-videos" class="galeria-videos">
-        <source src="https://de0dqb7pdorb1.cloudfront.net/cameraY_cinema_www2.mp4" type="video/mp4">
-        Your browser does not support the video tag.
       </video>
       <div class="cover-video">
-      <a class="venobox" data-autoplay="true" data-vbtype="video" data-gall="Galeria-Projetos" href="https://youtu.be/xWK0ilq7J5c"><i class="fas fa-play"></i></a>
-      </div>
-    </div>
-    <div class="i">
-      <video muted loop autoplay playsinline id="galeria-videos" class="galeria-videos">
-        <source src="https://de0dqb7pdorb1.cloudfront.net/611_rain_www.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-      <div class="cover-video">
-      <a class="venobox" data-autoplay="true" data-vbtype="video" data-gall="Galeria-Projetos" href="https://youtu.be/V_w4YBWm90A"><i class="fas fa-play"></i></a>
-      </div>
-    </div>
-    <div class="i">
-      <video muted loop autoplay playsinline id="galeria-videos" class="galeria-videos">
-        <source src="https://de0dqb7pdorb1.cloudfront.net/611_rain_www.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-      <div class="cover-video">
-        <a class="venobox" data-autoplay="true" data-vbtype="video" data-gall="Galeria-Projetos" href="https://youtu.be/KQF2lRENMR4"><i class="fas fa-play"></i></a>
-      </div>
-    </div>
-    <div class="i">
-      <video muted loop autoplay playsinline id="galeria-videos" class="galeria-videos">
-        <source src="https://de0dqb7pdorb1.cloudfront.net/111_north2.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-      <div class="cover-video">
-            <a class="venobox" data-autoplay="true" data-vbtype="video" data-gall="Galeria-Projetos" href="https://youtu.be/FseAAD-ME6w"><i class="fas fa-play"></i></a>
+        <h3> Titulo do Projeto </h3>
+        <p> algum detalhe </p>
       </div>
     </div>
     <div class="i">
@@ -137,16 +101,8 @@
         Your browser does not support the video tag.
       </video>
       <div class="cover-video">
-            <a class="venobox" data-autoplay="true" data-vbtype="video" data-gall="Galeria-Projetos" href="https://youtu.be/1q28kI6nkYw"><i class="fas fa-play"></i></a>
-      </div>
-    </div>
-    <div class="i">
-      <video muted loop autoplay playsinline id="galeria-videos" class="galeria-videos">
-        <source src="https://de0dqb7pdorb1.cloudfront.net/cameraY_cinema_www2.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-      <div class="cover-video">
-            <a class="venobox" data-autoplay="true" data-vbtype="video" data-gall="Galeria-Projetos" href="https://youtu.be/AwbIuHvFK34"><i class="fas fa-play"></i></a>
+        <h3> Titulo do Projeto </h3>
+        <p> algum detalhe </p>
       </div>
     </div>
     <div class="i">
@@ -155,7 +111,18 @@
         Your browser does not support the video tag.
       </video>
       <div class="cover-video">
-            <a class="venobox" data-autoplay="true" data-vbtype="video" data-gall="Galeria-Projetos" href="https://youtu.be/wWb_AuCnJzg"><i class="fas fa-play"></i></a>
+        <h3> Titulo do Projeto </h3>
+        <p> algum detalhe </p>
+      </div>
+    </div>
+    <div class="i">
+      <video muted loop autoplay playsinline id="galeria-videos" class="galeria-videos">
+        <source src="https://de0dqb7pdorb1.cloudfront.net/611_rain_www.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+      <div class="cover-video">
+        <h3> Titulo do Projeto </h3>
+        <p> algum detalhe </p>
       </div>
     </div>
     <div class="i">
@@ -164,7 +131,38 @@
         Your browser does not support the video tag.
       </video>
       <div class="cover-video">
-            <a class="venobox" data-autoplay="true" data-vbtype="video" data-gall="Galeria-Projetos" href="https://youtu.be/TuGuoAxOL5c"><i class="fas fa-play"></i></a>
+        <h3> Titulo do Projeto </h3>
+        <p> algum detalhe </p>
+      </div>
+    </div>
+    <div class="i">
+      <video muted loop autoplay playsinline id="galeria-videos" class="galeria-videos">
+        <source src="https://de0dqb7pdorb1.cloudfront.net/cameraY_cinema_www2.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+      <div class="cover-video">
+        <h3> Titulo do Projeto </h3>
+        <p> algum detalhe </p>
+      </div>
+    </div>
+    <div class="i">
+      <video muted loop autoplay playsinline id="galeria-videos" class="galeria-videos">
+        <source src="https://de0dqb7pdorb1.cloudfront.net/cameraY_cinema_www2.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+      <div class="cover-video">
+        <h3> Titulo do Projeto </h3>
+        <p> algum detalhe </p>
+      </div>
+    </div>
+    <div class="i">
+      <video muted loop autoplay playsinline id="galeria-videos" class="galeria-videos">
+        <source src="https://de0dqb7pdorb1.cloudfront.net/611_rain_www.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+      <div class="cover-video">
+        <h3> Titulo do Projeto </h3>
+        <p> algum detalhe </p>
       </div>
     </div>
     <div class="i">
@@ -173,7 +171,8 @@
         Your browser does not support the video tag.
       </video>
       <div class="cover-video">
-            <a class="venobox" data-autoplay="true" data-vbtype="video" data-gall="Galeria-Projetos" href="https://youtu.be/PBmF00NB9Ms"><i class="fas fa-play"></i></a>
+        <h3> Titulo do Projeto </h3>
+        <p> algum detalhe </p>
       </div>
     </div>
     <div class="i">
@@ -182,7 +181,8 @@
         Your browser does not support the video tag.
       </video>
       <div class="cover-video">
-            <a class="venobox" data-autoplay="true" data-vbtype="video" data-gall="Galeria-Projetos" href="https://youtu.be/7pQFFWpjwYA"><i class="fas fa-play"></i></a>
+        <h3> Titulo do Projeto </h3>
+        <p> algum detalhe </p>
       </div>
     </div>
     <div class="i">
@@ -191,7 +191,18 @@
         Your browser does not support the video tag.
       </video>
       <div class="cover-video">
-            <a class="venobox" data-autoplay="true" data-vbtype="video" data-gall="Galeria-Projetos" href="https://youtu.be/3srRMMJQYr8"><i class="fas fa-play"></i></a>
+        <h3> Titulo do Projeto </h3>
+        <p> algum detalhe </p>
+      </div>
+    </div>
+    <div class="i">
+      <video muted loop autoplay playsinline id="galeria-videos" class="galeria-videos">
+        <source src="https://de0dqb7pdorb1.cloudfront.net/111_north2.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+      <div class="cover-video">
+        <h3> Titulo do Projeto </h3>
+        <p> algum detalhe </p>
       </div>
     </div>
   </section>
@@ -216,14 +227,7 @@
   </footer>
   <!--footer-->
   <!-- JavaScript -->
-  <script src="js/libs/jquery-3.5.1.min.js"></script>
-  <script src="venobox/venobox.min.js"></script>
   <script src="js/project-loader.js"></script>
-  <script>
-    $(document).ready(function(){
-    $('.venobox').venobox(); 
-    });
-  </script>
   <!-- JavaScript -->
 </body>
 
