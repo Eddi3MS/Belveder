@@ -62,8 +62,7 @@
       <video autoplay muted playsinline id="projeto1" class="video-projeto  projeto1">
         <source src="https://de0dqb7pdorb1.cloudfront.net/611_rain_www.mp4" type="video/mp4">
         Your browser does not support the video tag.
-      </video>
-      <div class="cover-video"></div>
+      </video>     
 
       <video muted playsinline id="projeto2" class="video-projeto  projeto2">
         <source src="img/video.mp4" type="video/mp4">
@@ -91,6 +90,7 @@
         <source src="https://de0dqb7pdorb1.cloudfront.net/111_north2.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
+      <div class="cover-video"></div>
     </div>
     <div class="i">
       <video muted loop autoplay playsinline id="galeria-videos" class="galeria-videos">
