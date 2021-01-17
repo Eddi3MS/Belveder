@@ -92,7 +92,7 @@
         Your browser does not support the video tag.
       </video>      
         <div class="cover-video">
-          <a class="venobox" data-autoplay="true" data-vbtype="video" href="https://youtu.be/rZi_8t0xK44"><i class="fas fa-play"></i></a>
+          <a class="venobox" data-autoplay="true" data-vbtype="video" data-gall="Galeria-Projetos" href="https://youtu.be/4oZ9Qt26UVA"><i class="fas fa-play"></i></a>
         </div>
     </div>
     <div class="i">
@@ -101,7 +101,7 @@
         Your browser does not support the video tag.
       </video>
       <div class="cover-video">
-      <i class="fas fa-play"></i> 
+      <a class="venobox" data-autoplay="true" data-vbtype="video" data-gall="Galeria-Projetos" href="https://youtu.be/xWK0ilq7J5c"><i class="fas fa-play"></i></a>
       </div>
     </div>
     <div class="i">
@@ -110,7 +110,7 @@
         Your browser does not support the video tag.
       </video>
       <div class="cover-video">
-      <i class="fas fa-play"></i> 
+      <a class="venobox" data-autoplay="true" data-vbtype="video" data-gall="Galeria-Projetos" href="https://youtu.be/V_w4YBWm90A"><i class="fas fa-play"></i></a>
       </div>
     </div>
     <div class="i">
@@ -119,7 +119,7 @@
         Your browser does not support the video tag.
       </video>
       <div class="cover-video">
-      <i class="fas fa-play"></i> 
+        <a class="venobox" data-autoplay="true" data-vbtype="video" data-gall="Galeria-Projetos" href="https://youtu.be/KQF2lRENMR4"><i class="fas fa-play"></i></a>
       </div>
     </div>
     <div class="i">
@@ -128,7 +128,7 @@
         Your browser does not support the video tag.
       </video>
       <div class="cover-video">
-      <i class="fas fa-play"></i> 
+            <a class="venobox" data-autoplay="true" data-vbtype="video" data-gall="Galeria-Projetos" href="https://youtu.be/FseAAD-ME6w"><i class="fas fa-play"></i></a>
       </div>
     </div>
     <div class="i">
@@ -137,7 +137,7 @@
         Your browser does not support the video tag.
       </video>
       <div class="cover-video">
-      <i class="fas fa-play"></i> 
+            <a class="venobox" data-autoplay="true" data-vbtype="video" data-gall="Galeria-Projetos" href="https://youtu.be/1q28kI6nkYw"><i class="fas fa-play"></i></a>
       </div>
     </div>
     <div class="i">
@@ -146,7 +146,7 @@
         Your browser does not support the video tag.
       </video>
       <div class="cover-video">
-      <i class="fas fa-play"></i> 
+            <a class="venobox" data-autoplay="true" data-vbtype="video" data-gall="Galeria-Projetos" href="https://youtu.be/AwbIuHvFK34"><i class="fas fa-play"></i></a>
       </div>
     </div>
     <div class="i">
@@ -155,7 +155,7 @@
         Your browser does not support the video tag.
       </video>
       <div class="cover-video">
-      <i class="fas fa-play"></i> 
+            <a class="venobox" data-autoplay="true" data-vbtype="video" data-gall="Galeria-Projetos" href="https://youtu.be/wWb_AuCnJzg"><i class="fas fa-play"></i></a>
       </div>
     </div>
     <div class="i">
@@ -164,7 +164,7 @@
         Your browser does not support the video tag.
       </video>
       <div class="cover-video">
-      <i class="fas fa-play"></i> 
+            <a class="venobox" data-autoplay="true" data-vbtype="video" data-gall="Galeria-Projetos" href="https://youtu.be/TuGuoAxOL5c"><i class="fas fa-play"></i></a>
       </div>
     </div>
     <div class="i">
@@ -173,7 +173,7 @@
         Your browser does not support the video tag.
       </video>
       <div class="cover-video">
-      <i class="fas fa-play"></i> 
+            <a class="venobox" data-autoplay="true" data-vbtype="video" data-gall="Galeria-Projetos" href="https://youtu.be/PBmF00NB9Ms"><i class="fas fa-play"></i></a>
       </div>
     </div>
     <div class="i">
@@ -182,7 +182,7 @@
         Your browser does not support the video tag.
       </video>
       <div class="cover-video">
-      <i class="fas fa-play"></i> 
+            <a class="venobox" data-autoplay="true" data-vbtype="video" data-gall="Galeria-Projetos" href="https://youtu.be/7pQFFWpjwYA"><i class="fas fa-play"></i></a>
       </div>
     </div>
     <div class="i">
@@ -191,7 +191,7 @@
         Your browser does not support the video tag.
       </video>
       <div class="cover-video">
-      <i class="fas fa-play"></i> 
+            <a class="venobox" data-autoplay="true" data-vbtype="video" data-gall="Galeria-Projetos" href="https://youtu.be/3srRMMJQYr8"><i class="fas fa-play"></i></a>
       </div>
     </div>
   </section>
