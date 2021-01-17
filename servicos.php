@@ -76,15 +76,15 @@
     <div class="nav-serv">
       <nav>
         <ul>
-          <li><a href="#">Ilustrações 3D</a></li>
-          <li><a href="#">Animações</a></li>
-          <li><a href="#">Plantas Humanizadas</a></li>
-          <li><a href="#">Realidade Virtual</a></li>
+          <li><a class="page-scroll" href="#ilustracoes">Ilustrações 3D</a></li>
+          <li><a class="page-scroll" href="#animacoes">Animações</a></li>
+          <li><a class="page-scroll" href="#plantas">Plantas Humanizadas</a></li>
+          <li><a class="page-scroll" href="#realidade">Realidade Virtual</a></li>
         </ul>
       </nav>
     </div>
     <div class="banner"></div>
-    <div class="ilustracoes">
+    <div class="ilustracoes" id="ilustracoes">
       <h2>ILUSTRAÇÕES 3D</h2>
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
         Doloremque laudantium veritatis qui quasi quo quaerat excepturi
@@ -92,7 +92,7 @@
         laboriosam pariatur alias consequuntur.</p>
     </div>
     <div class="ilustracoes-img"></div>
-    <div class="animacoes">
+    <div class="animacoes" id="animacoes">
       <h2>ANIMAÇÕES</h2>
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
         Doloremque laudantium veritatis qui quasi quo quaerat excepturi
@@ -100,7 +100,7 @@
         laboriosam pariatur alias consequuntur.</p>
     </div>
     <div class="animacoes-img"></div>
-    <div class="plantas">
+    <div class="plantas" id="plantas">
       <h2>PLANTAS HUMANIZADAS</h2>
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
         Doloremque laudantium veritatis qui quasi quo quaerat excepturi
@@ -108,7 +108,7 @@
         laboriosam pariatur alias consequuntur.</p>
     </div>
     <div class="plantas-img"></div>
-    <div class="realidade-virtual">
+    <div class="realidade-virtual" id="realidade">
       <h2>REALIDADE VIRTUAL</h2>
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
         Doloremque laudantium veritatis qui quasi quo quaerat excepturi
@@ -137,7 +137,7 @@
   </footer>
   <!--footer-->
   <!-- JavaScript -->
-
+    <script src="./js/servicos.js"></script>
   <!-- JavaScript -->
 </body>
 
