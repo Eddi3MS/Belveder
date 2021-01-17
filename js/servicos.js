@@ -1,9 +1,27 @@
-document.querySelectorAll('.page-scroll').forEach(anchor => {
-  anchor.addEventListener('click', function (e) {
-      e.preventDefault();
+const menuItems = document.querySelectorAll('.page-scroll');
 
-      document.querySelector(this.getAttribute('href')).scrollIntoView({
-          behavior: 'smooth'
-      });
+menuItems.forEach(item => {
+  item.addEventListener('click', scrollToIdOnClick);
+})
+
+
+function getScrollTopByHref(element) {
+  cons id = element.getAttribute('href');
+  return document.querySelector(id).offsetTop;
+}
+
+
+function scrollToIdOnClick(event) {
+  event.preventDefault();
+  const to = getScrollTopByHref(event.target) - 80;
+
+  scrollToPosition(to);
+}
+
+function scrollToPosition(to) {
+  window.scroll({
+    top: to,
+    behavior: "smooth",
   });
-});
+}
+
