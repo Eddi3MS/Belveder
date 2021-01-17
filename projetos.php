@@ -65,7 +65,7 @@
       </video>
 
       <video muted playsinline id="projeto2" class="video-projeto  projeto2">
-        <source src="https://de0dqb7pdorb1.cloudfront.net/cameraY_cinema_www2.mp4" type="video/mp4">
+        <source src="img/video.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
 
