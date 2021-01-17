@@ -91,7 +91,7 @@
         Your browser does not support the video tag.
       </video>
       <div class="cover-video">
-      <i class="far fa-play-circle"></i> 
+      <i class="fas fa-play"></i> 
       </div>
     </div>
     <div class="i">
@@ -100,7 +100,7 @@
         Your browser does not support the video tag.
       </video>
       <div class="cover-video">
-      <i class="far fa-play-circle"></i> 
+      <i class="fas fa-play"></i> 
       </div>
     </div>
     <div class="i">
@@ -109,7 +109,7 @@
         Your browser does not support the video tag.
       </video>
       <div class="cover-video">
-      <i class="far fa-play-circle"></i> 
+      <i class="fas fa-play"></i> 
       </div>
     </div>
     <div class="i">
@@ -118,7 +118,7 @@
         Your browser does not support the video tag.
       </video>
       <div class="cover-video">
-      <i class="far fa-play-circle"></i> 
+      <i class="fas fa-play"></i> 
       </div>
     </div>
     <div class="i">
@@ -127,7 +127,7 @@
         Your browser does not support the video tag.
       </video>
       <div class="cover-video">
-      <i class="far fa-play-circle"></i> 
+      <i class="fas fa-play"></i> 
       </div>
     </div>
     <div class="i">
@@ -136,7 +136,7 @@
         Your browser does not support the video tag.
       </video>
       <div class="cover-video">
-      <i class="far fa-play-circle"></i> 
+      <i class="fas fa-play"></i> 
       </div>
     </div>
     <div class="i">
@@ -145,7 +145,7 @@
         Your browser does not support the video tag.
       </video>
       <div class="cover-video">
-      <i class="far fa-play-circle"></i> 
+      <i class="fas fa-play"></i> 
       </div>
     </div>
     <div class="i">
@@ -154,7 +154,7 @@
         Your browser does not support the video tag.
       </video>
       <div class="cover-video">
-      <i class="far fa-play-circle"></i> 
+      <i class="fas fa-play"></i> 
       </div>
     </div>
     <div class="i">
@@ -163,7 +163,7 @@
         Your browser does not support the video tag.
       </video>
       <div class="cover-video">
-      <i class="far fa-play-circle"></i> 
+      <i class="fas fa-play"></i> 
       </div>
     </div>
     <div class="i">
@@ -172,7 +172,7 @@
         Your browser does not support the video tag.
       </video>
       <div class="cover-video">
-      <i class="far fa-play-circle"></i> 
+      <i class="fas fa-play"></i> 
       </div>
     </div>
     <div class="i">
@@ -181,7 +181,7 @@
         Your browser does not support the video tag.
       </video>
       <div class="cover-video">
-      <i class="far fa-play-circle"></i> 
+      <i class="fas fa-play"></i> 
       </div>
     </div>
     <div class="i">
@@ -190,7 +190,7 @@
         Your browser does not support the video tag.
       </video>
       <div class="cover-video">
-      <i class="far fa-play-circle"></i> 
+      <i class="fas fa-play"></i> 
       </div>
     </div>
   </section>
