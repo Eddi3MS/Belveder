@@ -76,6 +76,11 @@
         <source src="https://de0dqb7pdorb1.cloudfront.net/111_north2.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
+
+      <video muted playsinline id="video4" class="index-videos  video4">
+        <source src="https://de0dqb7pdorb1.cloudfront.net/611_hudson_www.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>      
     </div>
     <img class="logotipo" src="./img/avatar_bvd.png">
 
