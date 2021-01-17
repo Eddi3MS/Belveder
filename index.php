@@ -63,7 +63,7 @@
   <section class="full-page">
     <div class="slider-container">
       <video autoplay muted playsinline id="video1" class="index-videos  video1">
-        <source src="./img/video1.mp4" type="video/mp4">
+        <source src="https://de0dqb7pdorb1.cloudfront.net/StRegis_cinemagraph_www.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
 
