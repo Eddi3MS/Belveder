@@ -11,7 +11,7 @@
   <link rel="stylesheet" type="text/css" href="css/style.css" />
   <script src="https://kit.fontawesome.com/8e3d354095.js" crossorigin="anonymous"></script>
   <link rel="shortcut icon" type="image-x/png" href="img/icon.ico" />
-  <link rel="stylesheet" href="venobox/venobox.css" type="text/css" media="screen" />
+  <link rel="stylesheet" href="venobox/venobox.min.css" type="text/css" media="screen" />
   <title>Dev Eddi3 - Belveder</title>
 </head>
 
