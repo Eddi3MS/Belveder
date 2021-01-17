@@ -92,7 +92,7 @@
       </video>
       <div class="cover-video">
         <div>
-          <h3>Titulo do Projeto</h3>
+          <h3>Título do Projeto</h3>
           <p>algum detalhe</p>
         </div>
       </div>
@@ -104,7 +104,7 @@
       </video>
       <div class="cover-video">
         <div>
-          <h3> Titulo do Projeto </h3>
+          <h3> Título do Projeto </h3>
           <p> algum detalhe </p>
         </div>
       </div>
@@ -116,7 +116,7 @@
       </video>
       <div class="cover-video">
         <div>
-          <h3> Titulo do Projeto </h3>
+          <h3> Título do Projeto </h3>
         <p>algum detalhe </p>
       </div>
       </div>
@@ -128,7 +128,7 @@
       </video>
       <div class="cover-video">
         <div>
-          <h3> Titulo do Projeto </h3>
+          <h3> Título do Projeto </h3>
         <p> algum detalhe </p></div>
       </div>
     </div>
@@ -139,7 +139,7 @@
       </video>
       <div class="cover-video">
         <div>
-          <h3> Titulo do Projeto </h3>
+          <h3> Título do Projeto </h3>
         <p>algum detalhe </p></div>
       </div>
     </div>
@@ -150,7 +150,7 @@
       </video>
       <div class="cover-video">
         <div>
-          <h3> Titulo do Projeto </h3>
+          <h3> Título do Projeto </h3>
         <p> algum detalhe </p></div>
       </div>
     </div>
@@ -161,7 +161,7 @@
       </video>
       <div class="cover-video">
         <div>
-          <h3> Titulo do Projeto </h3>
+          <h3> Título do Projeto </h3>
         <p> algum detalhe </p></div>
       </div>
     </div>
@@ -172,7 +172,7 @@
       </video>
       <div class="cover-video">
         <div>
-          <h3> Titulo do Projeto </h3>
+          <h3> Título do Projeto </h3>
         <p> algum detalhe </p></div>
       </div>
     </div>
@@ -183,7 +183,7 @@
       </video>
       <div class="cover-video">
         <div>
-          <h3> Titulo do Projeto </h3>
+          <h3> Título do Projeto </h3>
         <p> algum detalhe </p></div>
       </div>
     </div>
@@ -194,7 +194,7 @@
       </video>
       <div class="cover-video">
         <div>
-          <h3> Titulo do Projeto </h3>
+          <h3> Título do Projeto </h3>
         <p> algum detalhe </p></div>
       </div>
     </div>
@@ -205,7 +205,7 @@
       </video>
       <div class="cover-video">
         <div>
-          <h3> Titulo do Projeto </h3>
+          <h3> Título do Projeto </h3>
         <p> algum detalhe </p></div>
       </div>
     </div>
@@ -216,7 +216,7 @@
       </video>
       <div class="cover-video">
         <div>
-          <h3> Titulo do Projeto </h3>
+          <h3> Título do Projeto </h3>
         <p> algum detalhe </p></div>
       </div>
     </div>
