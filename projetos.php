@@ -11,6 +11,7 @@
   <link rel="stylesheet" type="text/css" href="css/style.css" />
   <script src="https://kit.fontawesome.com/8e3d354095.js" crossorigin="anonymous"></script>
   <link rel="shortcut icon" type="image-x/png" href="img/icon.ico" />
+  <link rel="stylesheet" href="venobox/venobox.css" type="text/css" media="screen" />
   <title>Dev Eddi3 - Belveder</title>
 </head>
 
@@ -90,9 +91,11 @@
         <source src="https://de0dqb7pdorb1.cloudfront.net/111_north2.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
-      <div class="cover-video">
-      <i class="fas fa-play"></i> 
-      </div>
+      <a class="venobox" data-autoplay="true" data-vbtype="video" href="https://youtu.be/rZi_8t0xK44">
+        <div class="cover-video">
+          <i class="fas fa-play"></i> 
+        </div>
+      </a>
     </div>
     <div class="i">
       <video muted loop autoplay playsinline id="galeria-videos" class="galeria-videos">
@@ -216,7 +219,13 @@
   <!--footer-->
   <!-- JavaScript -->
   <script src="js/libs/jquery-3.5.1.min.js"></script>
+  <script src="venobox/venobox.min.js"></script>
   <script src="js/project-loader.js"></script>
+  <script>
+    $(document).ready(function(){
+    $('.venobox').venobox(); 
+    });
+  </script>
   <!-- JavaScript -->
 </body>
 
