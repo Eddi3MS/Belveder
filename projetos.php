@@ -90,12 +90,10 @@
       <video muted loop autoplay playsinline id="galeria-videos" class="galeria-videos">
         <source src="https://de0dqb7pdorb1.cloudfront.net/111_north2.mp4" type="video/mp4">
         Your browser does not support the video tag.
-      </video>
-      <a class="venobox" data-autoplay="true" data-vbtype="video" href="https://youtu.be/rZi_8t0xK44">
+      </video>      
         <div class="cover-video">
-          <i class="fas fa-play"></i> 
+          <a class="venobox" data-autoplay="true" data-vbtype="video" href="https://youtu.be/rZi_8t0xK44"><i class="fas fa-play"></i></a>
         </div>
-      </a>
     </div>
     <div class="i">
       <video muted loop autoplay playsinline id="galeria-videos" class="galeria-videos">
