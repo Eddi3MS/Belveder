@@ -91,8 +91,10 @@
         Your browser does not support the video tag.
       </video>
       <div class="cover-video">
-        <h3> Titulo do Projeto </h3>
-        <p> algum detalhe </p>
+        <div>
+          <h3>Titulo do Projeto</h3>
+          <p>algum detalhe</p>
+        </div>
       </div>
     </div>
     <div class="i">
@@ -101,8 +103,10 @@
         Your browser does not support the video tag.
       </video>
       <div class="cover-video">
-        <h3> Titulo do Projeto </h3>
-        <p> algum detalhe </p>
+        <div>
+          <h3> Titulo do Projeto </h3>
+          <p> algum detalhe </p>
+        </div>
       </div>
     </div>
     <div class="i">
@@ -111,8 +115,10 @@
         Your browser does not support the video tag.
       </video>
       <div class="cover-video">
-        <h3> Titulo do Projeto </h3>
-        <p> algum detalhe </p>
+        <div>
+          <h3> Titulo do Projeto </h3>
+        <p>algum detalhe </p>
+      </div>
       </div>
     </div>
     <div class="i">
@@ -121,8 +127,9 @@
         Your browser does not support the video tag.
       </video>
       <div class="cover-video">
-        <h3> Titulo do Projeto </h3>
-        <p> algum detalhe </p>
+        <div>
+          <h3> Titulo do Projeto </h3>
+        <p> algum detalhe </p></div>
       </div>
     </div>
     <div class="i">
@@ -131,8 +138,9 @@
         Your browser does not support the video tag.
       </video>
       <div class="cover-video">
-        <h3> Titulo do Projeto </h3>
-        <p> algum detalhe </p>
+        <div>
+          <h3> Titulo do Projeto </h3>
+        <p>algum detalhe </p></div>
       </div>
     </div>
     <div class="i">
@@ -141,8 +149,9 @@
         Your browser does not support the video tag.
       </video>
       <div class="cover-video">
-        <h3> Titulo do Projeto </h3>
-        <p> algum detalhe </p>
+        <div>
+          <h3> Titulo do Projeto </h3>
+        <p> algum detalhe </p></div>
       </div>
     </div>
     <div class="i">
@@ -151,8 +160,9 @@
         Your browser does not support the video tag.
       </video>
       <div class="cover-video">
-        <h3> Titulo do Projeto </h3>
-        <p> algum detalhe </p>
+        <div>
+          <h3> Titulo do Projeto </h3>
+        <p> algum detalhe </p></div>
       </div>
     </div>
     <div class="i">
@@ -161,8 +171,9 @@
         Your browser does not support the video tag.
       </video>
       <div class="cover-video">
-        <h3> Titulo do Projeto </h3>
-        <p> algum detalhe </p>
+        <div>
+          <h3> Titulo do Projeto </h3>
+        <p> algum detalhe </p></div>
       </div>
     </div>
     <div class="i">
@@ -171,8 +182,9 @@
         Your browser does not support the video tag.
       </video>
       <div class="cover-video">
-        <h3> Titulo do Projeto </h3>
-        <p> algum detalhe </p>
+        <div>
+          <h3> Titulo do Projeto </h3>
+        <p> algum detalhe </p></div>
       </div>
     </div>
     <div class="i">
@@ -181,8 +193,9 @@
         Your browser does not support the video tag.
       </video>
       <div class="cover-video">
-        <h3> Titulo do Projeto </h3>
-        <p> algum detalhe </p>
+        <div>
+          <h3> Titulo do Projeto </h3>
+        <p> algum detalhe </p></div>
       </div>
     </div>
     <div class="i">
@@ -191,8 +204,9 @@
         Your browser does not support the video tag.
       </video>
       <div class="cover-video">
-        <h3> Titulo do Projeto </h3>
-        <p> algum detalhe </p>
+        <div>
+          <h3> Titulo do Projeto </h3>
+        <p> algum detalhe </p></div>
       </div>
     </div>
     <div class="i">
@@ -201,8 +215,9 @@
         Your browser does not support the video tag.
       </video>
       <div class="cover-video">
-        <h3> Titulo do Projeto </h3>
-        <p> algum detalhe </p>
+        <div>
+          <h3> Titulo do Projeto </h3>
+        <p> algum detalhe </p></div>
       </div>
     </div>
   </section>
