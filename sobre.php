@@ -79,25 +79,25 @@
     </div>
   </section>
   <section class="membros">
-    <div class="membro1">
+    <div class="membro1  team">
       <div class="titulos1">
         <p>Nome Sobrenome</p>
         <p>Cargo</p>
       </div>
     </div>
-    <div class="membro2">
+    <div class="membro2  team">
       <div class="titulos2">
         <p>Nome Sobrenome</p>
         <p>Cargo</p>
       </div>
     </div>
-    <div class="membro3">
+    <div class="membro3  team">
       <div class="titulos3">
         <p>Nome Sobrenome</p>
         <p>Cargo</p>
       </div>
     </div>
-    <div class="membro4">
+    <div class="membro4  team">
       <div class="titulos4">
         <p>Nome Sobrenome</p>
         <p>Cargo</p>
