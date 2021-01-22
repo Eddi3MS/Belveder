@@ -15,6 +15,9 @@
 </head>
 
 <body>
+  <div class="pre-loader">
+    <img src="img/avatar_bvd.png" />
+  </div>
   <header class="header">
     <div class="logo-header"><a href="/"><img src="./img/logo1.png" /></a></div>
     <div class="nav-container">
@@ -93,7 +96,12 @@
   </footer>
   <!--footer-->
   <!-- JavaScript -->
-  <!-- cri cri -->
+    <script>
+          window.addEventListener("load", function () {
+        const loader = document.querySelector(".pre-loader");
+        loader.className += " hidden";
+      });
+    </script>
   <!-- JavaScript -->
 </body>
 
