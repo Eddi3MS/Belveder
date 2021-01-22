@@ -1,1 +1,1 @@
-"use strict";
+"use strict";var menu=document.getElementById("#menu"),menuMobile=document.getElementsByClassName(".nav-mobile");menu.addEventListener(click,function(){menuMobile.style.display?b:n});

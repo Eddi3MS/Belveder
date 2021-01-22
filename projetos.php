@@ -285,6 +285,7 @@
       });
     </script>
   <script src="js/project-loader.js"></script>
+  <script src="./js/main.js"></script>
   <!-- JavaScript -->
 </body>
 

@@ -133,6 +133,7 @@
         loader.className += " hidden";
       });
     </script>
+    <script src="./js/main.js"></script>
   <!-- JavaScript -->
 </body>
 
