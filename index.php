@@ -37,7 +37,7 @@
       </nav>
       <!--menu-desktop-->
       <div class="menu" id="menu">
-        <div class="bar"></div>
+        <span class="bar"></span>
       </div>
 
       <nav class="nav-mobile">
