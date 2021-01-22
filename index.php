@@ -18,7 +18,7 @@
   <div class="pre-loader">
     <img src="img/avatar_bvd.png" />
   </div>
-  <header class="header">
+  <header class="header-black">
     <div class="logo-header"><a href="/"><img src="./img/logo.png" /></a></div>
     
       <nav class="navigation">
