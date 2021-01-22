@@ -1,1 +1,1 @@
-"use strict";var menu=document.querySelector("#menu"),menuMobile=document.querySelector(".nav-mobile");menu.onClick=function(){menuMobile.classList.toggle("show")};
+"use strict";var mobile=document.querySelector("#menu"),menu=document.querySelector(".nav-mobile");mobile.onclick=function(){menu.classList.toggle("show")};
