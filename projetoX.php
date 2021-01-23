@@ -8,6 +8,10 @@
   <script src="https://kit.fontawesome.com/8e3d354095.js" crossorigin="anonymous"></script>
 </head>
 <style>
+  * {
+    margin: 0;
+    padding: 0;
+  }
   section {
     display: flex;
     align-items: center;
