@@ -20,6 +20,9 @@
     font-size: 25px;
     color: red;
   }
+  h1:nth-of-type(2) {
+    padding-top: 20px;
+  }
 </style>
 
 <body>
