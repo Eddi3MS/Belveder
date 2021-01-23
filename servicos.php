@@ -88,44 +88,44 @@
     </div>
     <div class="banner"></div>
     <div class="wrap-serv  wrap-ilu  serv-container">
-      <div class="ilustracoes" id="ilustracoes">
+      <div class="ilustracoes  serv-square" id="ilustracoes">
         <h2>ILUSTRAÇÕES 3D</h2>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
           Doloremque laudantium veritatis qui quasi quo quaerat excepturi
           asperiores ex quibusdam dolorum, quia, earum magnam culpa ad animi
           laboriosam pariatur alias consequuntur.</p>
       </div>
-      <div class="ilustracoes-img"></div>
+      <div class="ilustracoes-img  serv-square"></div>
     </div>
     <div class="wrap-reverse-serv  wrap-anima  serv-container">
-      <div class="animacoes" id="animacoes">
+      <div class="animacoes  serv-square" id="animacoes">
         <h2>ANIMAÇÕES</h2>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
           Doloremque laudantium veritatis qui quasi quo quaerat excepturi
           asperiores ex quibusdam dolorum, quia, earum magnam culpa ad animi
           laboriosam pariatur alias consequuntur.</p>
       </div>
-      <div class="animacoes-img"></div>
+      <div class="animacoes-img  serv-square"></div>
     </div>
     <div class="wrap-serv  wrap-plan  serv-container">
-      <div class="plantas" id="plantas">
+      <div class="plantas  serv-square" id="plantas">
         <h2>PLANTAS HUMANIZADAS</h2>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
           Doloremque laudantium veritatis qui quasi quo quaerat excepturi
           asperiores ex quibusdam dolorum, quia, earum magnam culpa ad animi
           laboriosam pariatur alias consequuntur.</p>
       </div>
-      <div class="plantas-img"></div>
+      <div class="plantas-img  serv-square"></div>
     </div>
     <div class="wrap-reverse-serv  wrap-real  serv-container">
-      <div class="realidade-virtual" id="realidade">
+      <div class="realidade-virtual  serv-square" id="realidade">
         <h2>REALIDADE VIRTUAL</h2>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
           Doloremque laudantium veritatis qui quasi quo quaerat excepturi
           asperiores ex quibusdam dolorum, quia, earum magnam culpa ad animi
           laboriosam pariatur alias consequuntur.</p>
       </div>
-      <div class="realidade-virtual-img"></div>
+      <div class="realidade-virtual-img  serv-square"></div>
     </div>
   </section>
   <footer class="footer">
