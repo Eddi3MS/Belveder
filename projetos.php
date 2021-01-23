@@ -63,7 +63,7 @@
   <section class="principais">
     <div class="slider-projetos">
       <video autoplay playsinline id="projeto1" class="video-projeto  projeto1">
-        <source src="https://youtu.be/Dwb7O8zCmGo" type="video/mp4">
+        <source src="https://www.youtube.com/watch?v=Dwb7O8zCmGo" type="video/mp4">
         Your browser does not support the video tag.
       </video>
 
