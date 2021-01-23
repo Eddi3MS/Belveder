@@ -79,14 +79,16 @@
       </div>
     </div>
     <div class="nav-serv">
-      <nav>
-        <ul>
-          <li><a class="page-scroll" href="#ilustracoes">Ilustrações 3D</a></li>
-          <li><a class="page-scroll" href="#animacoes">Animações</a></li>
-          <li><a class="page-scroll" href="#plantas">Plantas Humanizadas</a></li>
-          <li><a class="page-scroll" href="#realidade">Realidade Virtual</a></li>
-        </ul>
-      </nav>
+      <div class="nav-serv-parts">
+        <a class="page-scroll" href="#ilustracoes">Ilustrações 3D</a>
+        <a class="page-scroll" href="#animacoes">Animações</a>
+      </div>
+      <div class="nav-serv-parts">
+        <a class="page-scroll" href="#plantas">Plantas Humanizadas</a>
+        <a class="page-scroll" href="#realidade">Realidade Virtual</a>
+      </div>
+
+
     </div>
     <div class="banner"></div>
     <div class="wrap-serv  wrap-ilu  serv-container">
