@@ -90,110 +90,128 @@
       <video muted loop autoplay playsinline id="galeria-videos" class="galeria-videos">
         <source src="https://de0dqb7pdorb1.cloudfront.net/111_north2.mp4" type="video/mp4">
         Your browser does not support the video tag.
-      </video>      
+      </video>
+      <a href="/projetoX">
         <div class="cover-video">
           <div>
             <h3>Título do Projeto</h3>
-           <a href="#"><p>mais detalhes..</p></a>
+            <p>details</p>
           </div>
-        </div>      
+        </div>
+      </a>
     </div>
     <div class="i">
       <video muted loop autoplay playsinline id="galeria-videos" class="galeria-videos">
         <source src="https://de0dqb7pdorb1.cloudfront.net/cameraY_cinema_www2.mp4" type="video/mp4">
         Your browser does not support the video tag.
-      </video>      
+      </video>
+      <a href="/projetoX">
         <div class="cover-video">
           <div>
             <h3>Título do Projeto</h3>
-            <a href="#"><p>mais detalhes..</p></a>
+            <p>details</p>
           </div>
-        </div>      
+        </div>
+      </a>
     </div>
     <div class="i">
       <video muted loop autoplay playsinline id="galeria-videos" class="galeria-videos">
         <source src="https://de0dqb7pdorb1.cloudfront.net/611_rain_www.mp4" type="video/mp4">
         Your browser does not support the video tag.
-      </video>      
+      </video>
+      <a href="/projetoX">
         <div class="cover-video">
           <div>
             <h3>Título do Projeto</h3>
-            <a href="#"><p>mais detalhes..</p></a>
+            <p>details</p>
           </div>
-        </div>      
+        </div>
+      </a>
     </div>
     <div class="i">
       <video muted loop autoplay playsinline id="galeria-videos" class="galeria-videos">
         <source src="https://de0dqb7pdorb1.cloudfront.net/611_rain_www.mp4" type="video/mp4">
         Your browser does not support the video tag.
-      </video>      
+      </video>
+      <a href="/projetoX">
         <div class="cover-video">
           <div>
             <h3>Título do Projeto</h3>
-            <a href="#"><p>mais detalhes..</p></a>
+            <p>details</p>
           </div>
-        </div>      
+        </div>
+      </a>
     </div>
     <div class="i">
       <video muted loop autoplay playsinline id="galeria-videos" class="galeria-videos">
         <source src="https://de0dqb7pdorb1.cloudfront.net/111_north2.mp4" type="video/mp4">
         Your browser does not support the video tag.
-      </video>      
+      </video>
+      <a href="/projetoX">
         <div class="cover-video">
           <div>
             <h3>Título do Projeto</h3>
-            <a href="#"><p>mais detalhes..</p></a>
+            <p>details</p>
           </div>
-        </div>      
+        </div>
+      </a>
     </div>
     <div class="i">
       <video muted loop autoplay playsinline id="galeria-videos" class="galeria-videos">
         <source src="https://de0dqb7pdorb1.cloudfront.net/cameraY_cinema_www2.mp4" type="video/mp4">
         Your browser does not support the video tag.
-      </video>      
+      </video>
+      <a href="/projetoX">
         <div class="cover-video">
           <div>
             <h3>Título do Projeto</h3>
-            <a href="#"><p>mais detalhes..</p></a>
+            <p>details</p>
           </div>
-        </div>      
+        </div>
+      </a>
     </div>
     <div class="i">
       <video muted loop autoplay playsinline id="galeria-videos" class="galeria-videos">
         <source src="https://de0dqb7pdorb1.cloudfront.net/cameraY_cinema_www2.mp4" type="video/mp4">
         Your browser does not support the video tag.
-      </video>      
+      </video>
+      <a href="/projetoX">
         <div class="cover-video">
           <div>
             <h3>Título do Projeto</h3>
-           <a href="#"> <p>mais detalhes..</p></a>
+            <p>details</p>
           </div>
-        </div>      
+        </div>
+      </a>
     </div>
     <div class="i">
       <video muted loop autoplay playsinline id="galeria-videos" class="galeria-videos">
         <source src="https://de0dqb7pdorb1.cloudfront.net/611_rain_www.mp4" type="video/mp4">
         Your browser does not support the video tag.
-      </video>      
+      </video>
+      <a href="/projetoX">
         <div class="cover-video">
           <div>
             <h3>Título do Projeto</h3>
-            <a href="#"><p>mais detalhes..</p></a>
+            <p>details</p>
           </div>
-        </div>      
+        </div>
+      </a>
     </div>
     <div class="i">
       <video muted loop autoplay playsinline id="galeria-videos" class="galeria-videos">
         <source src="https://de0dqb7pdorb1.cloudfront.net/111_north2.mp4" type="video/mp4">
         Your browser does not support the video tag.
-      </video>      
+      </video>
+      <a href="/projetoX">
         <div class="cover-video">
           <div>
             <h3>Título do Projeto</h3>
-            <a href="#"><p>mais detalhes..</p></a>
+            <p>details</p>
           </div>
-        </div>      
-    </div> 
+        </div>
+      </a>
+    </div>
   </section>
 
   <footer class="footer">
@@ -217,11 +235,11 @@
   <!--footer-->
   <!-- JavaScript -->
   <script>
-          window.addEventListener("load", function () {
-        const loader = document.querySelector(".pre-loader");
-        loader.className += " hidden";
-      });
-    </script>
+    window.addEventListener("load", function() {
+      const loader = document.querySelector(".pre-loader");
+      loader.className += " hidden";
+    });
+  </script>
   <script src="js/project-loader.js"></script>
   <script src="./js/main.js"></script>
   <!-- JavaScript -->
