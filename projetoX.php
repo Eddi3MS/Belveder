@@ -39,7 +39,7 @@
     font-size: 20px;
   }
   .back a i{
-    font-size: 20px;
+    font-size: 17px;
     color: black;
   }
 </style>
