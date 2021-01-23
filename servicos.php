@@ -46,7 +46,7 @@
             <a title="Projetos" href="/projetos">Projetos</a>
           </li>
           <li>
-            <a title="Serviços" href="/serviços">Serviços</a>
+            <a title="Serviços" href="/servicos">Serviços</a>
           </li>
           <li>
             <a title="Sobre" href="/sobre">Sobre</a>
