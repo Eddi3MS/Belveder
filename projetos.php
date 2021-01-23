@@ -95,7 +95,7 @@
         <div class="cover-video">
           <div>
             <h3>Título do Projeto</h3>
-            <p>details</p>
+            <p>+ details</p>
           </div>
         </div>
       </a>
@@ -109,7 +109,7 @@
         <div class="cover-video">
           <div>
             <h3>Título do Projeto</h3>
-            <p>details</p>
+            <p>+ details</p>
           </div>
         </div>
       </a>
@@ -123,7 +123,7 @@
         <div class="cover-video">
           <div>
             <h3>Título do Projeto</h3>
-            <p>details</p>
+            <p>+ details</p>
           </div>
         </div>
       </a>
@@ -137,7 +137,7 @@
         <div class="cover-video">
           <div>
             <h3>Título do Projeto</h3>
-            <p>details</p>
+            <p>+ details</p>
           </div>
         </div>
       </a>
@@ -151,7 +151,7 @@
         <div class="cover-video">
           <div>
             <h3>Título do Projeto</h3>
-            <p>details</p>
+            <p>+ details</p>
           </div>
         </div>
       </a>
@@ -165,7 +165,7 @@
         <div class="cover-video">
           <div>
             <h3>Título do Projeto</h3>
-            <p>details</p>
+            <p>+ details</p>
           </div>
         </div>
       </a>
@@ -179,7 +179,7 @@
         <div class="cover-video">
           <div>
             <h3>Título do Projeto</h3>
-            <p>details</p>
+            <p>+ details</p>
           </div>
         </div>
       </a>
@@ -193,7 +193,7 @@
         <div class="cover-video">
           <div>
             <h3>Título do Projeto</h3>
-            <p>details</p>
+            <p>+ details</p>
           </div>
         </div>
       </a>
@@ -207,7 +207,7 @@
         <div class="cover-video">
           <div>
             <h3>Título do Projeto</h3>
-            <p>details</p>
+            <p>+ details</p>
           </div>
         </div>
       </a>
