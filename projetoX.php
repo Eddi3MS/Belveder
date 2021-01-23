@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -14,16 +15,21 @@
     height: 100vh;
     background-color: #f0f0f0;
   }
+
   h1 {
     font-size: 25px;
     color: red;
   }
 </style>
+
 <body>
   <section>
-    <h1> Nothing here yet.</h1>
-    <h1> Nada aqui ainda.</h1>
+    <div>
+      <h1> Nothing here yet.</h1>
+      <h1> Nada aqui ainda.</h1>
+    </div>
   </section>
-  
+
 </body>
+
 </html>
