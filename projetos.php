@@ -63,7 +63,7 @@
   <section class="principais">
     <div class="slider-projetos">
       <video autoplay playsinline id="projeto1" class="video-projeto  projeto1">
-        <source src="https://www.youtube.com/watch?v=Dwb7O8zCmGo" type="video/mp4">
+        <source src="https://de0dqb7pdorb1.cloudfront.net/611_rain_www.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
 
@@ -213,49 +213,7 @@
           </div>
         </div>
       
-    </div>
-    <div class="i">
-      <video muted loop autoplay playsinline id="galeria-videos" class="galeria-videos">
-        <source src="https://de0dqb7pdorb1.cloudfront.net/111_north2.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-      
-        <div class="cover-video">
-          <div>
-            <h3>Título do Projeto</h3>
-            <a href="#"><p>mais detalhes..</p></a>
-          </div>
-        </div>
-      
-    </div>
-    <div class="i">
-      <video muted loop autoplay playsinline id="galeria-videos" class="galeria-videos">
-        <source src="https://de0dqb7pdorb1.cloudfront.net/111_north2.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-      
-        <div class="cover-video">
-          <div>
-            <h3>Título do Projeto</h3>
-            <a href="#"><p>mais detalhes..</p> </a>
-          </div>
-        </div>
-     
-    </div>
-    <div class="i">
-      <video muted loop autoplay playsinline id="galeria-videos" class="galeria-videos">
-        <source src="https://de0dqb7pdorb1.cloudfront.net/111_north2.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-      
-        <div class="cover-video">
-          <div>
-            <h3>Título do Projeto</h3>
-            <a href="#"><p>mais detalhes..</p></a>
-          </div>
-        </div>
-      
-    </div>
+    </div> 
   </section>
 
   <footer class="footer">
