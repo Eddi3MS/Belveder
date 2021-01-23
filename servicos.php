@@ -61,19 +61,21 @@
   </header>
   <!--header-->
   <section class="servicos">
-    <div class="titulo-serv">
-      <h1>VISUALIZAÇÃO <br />ARQUITETÔNICA</h1>
-    </div>
-    <div class="titulo-desc">
-      <div class="desc-container">
-        <p>
-          Lorem ipsum dolor sit amet consectetur
-          adipisicing elit. Eligendi dolorem, sequi
-          quis, quaerat perferendis reiciendis minima
-          culpa accusamus consequatur debitis placeat
-          laudantium quas iusto fugiat nisi ratione non
-          aperiam ducimus.
-        </p>
+    <div class="titulo-wraper">
+      <div class="titulo-serv">
+        <h1>VISUALIZAÇÃO <br />ARQUITETÔNICA</h1>
+      </div>
+      <div class="titulo-desc">
+        <div class="desc-container">
+          <p>
+            Lorem ipsum dolor sit amet consectetur
+            adipisicing elit. Eligendi dolorem, sequi
+            quis, quaerat perferendis reiciendis minima
+            culpa accusamus consequatur debitis placeat
+            laudantium quas iusto fugiat nisi ratione non
+            aperiam ducimus.
+          </p>
+        </div>
       </div>
     </div>
     <div class="nav-serv">
