@@ -62,7 +62,7 @@
   <!--header-->
   <section class="principais">
     <div class="slider-projetos">
-      <video autoplay playsinline id="projeto1" class="video-projeto  projeto1">
+      <video autoplay muted playsinline id="projeto1" class="video-projeto  projeto1">
         <source src="https://de0dqb7pdorb1.cloudfront.net/611_rain_www.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
