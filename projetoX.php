@@ -5,6 +5,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Projeto XXX</title>
+  <script src="https://kit.fontawesome.com/8e3d354095.js" crossorigin="anonymous"></script>
 </head>
 <style>
   section {
@@ -33,11 +34,15 @@
     color: black;
     font-size: 20px;
   }
+  .back a i{
+    font-size: 20px;
+    color: black;
+  }
 </style>
 
 <body>
   <section>
-    <div class="back"> <a href="/projetos"><- BACK</a></div>
+    <div class="back"> <a href="/projetos"><i class="fas fa-arrow-left"></i> BACK</a></div>
     <div>
       <h1> Nothing here yet.</h1>
       <h1> Nada aqui ainda.</h1>
