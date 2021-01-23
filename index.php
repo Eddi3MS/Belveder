@@ -19,7 +19,7 @@
     <img src="img/avatar_bvd.png" />
   </div>
   <header class="header">
-    <div class="logo-header"><a href="/"><img src="./img/logo.png" /></a></div>
+    <div class="logo-header"><a href="/"><img src="./img/logo1.png" /></a></div>
     
       <nav class="navigation">
         <ul>
