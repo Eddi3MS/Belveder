@@ -87,38 +87,46 @@
       </nav>
     </div>
     <div class="banner"></div>
-    <div class="ilustracoes" id="ilustracoes">
-      <h2>ILUSTRAÇÕES 3D</h2>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
-        Doloremque laudantium veritatis qui quasi quo quaerat excepturi
-        asperiores ex quibusdam dolorum, quia, earum magnam culpa ad animi
-        laboriosam pariatur alias consequuntur.</p>
+    <div class="wrap-serv  wrap-ilu  serv-container">
+      <div class="ilustracoes" id="ilustracoes">
+        <h2>ILUSTRAÇÕES 3D</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
+          Doloremque laudantium veritatis qui quasi quo quaerat excepturi
+          asperiores ex quibusdam dolorum, quia, earum magnam culpa ad animi
+          laboriosam pariatur alias consequuntur.</p>
+      </div>
+      <div class="ilustracoes-img"></div>
     </div>
-    <div class="ilustracoes-img"></div>
-    <div class="animacoes" id="animacoes">
-      <h2>ANIMAÇÕES</h2>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
-        Doloremque laudantium veritatis qui quasi quo quaerat excepturi
-        asperiores ex quibusdam dolorum, quia, earum magnam culpa ad animi
-        laboriosam pariatur alias consequuntur.</p>
+    <div class="wrap-reverse-serv  wrap-anima  serv-container">
+      <div class="animacoes" id="animacoes">
+        <h2>ANIMAÇÕES</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
+          Doloremque laudantium veritatis qui quasi quo quaerat excepturi
+          asperiores ex quibusdam dolorum, quia, earum magnam culpa ad animi
+          laboriosam pariatur alias consequuntur.</p>
+      </div>
+      <div class="animacoes-img"></div>
     </div>
-    <div class="animacoes-img"></div>
-    <div class="plantas" id="plantas">
-      <h2>PLANTAS HUMANIZADAS</h2>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
-        Doloremque laudantium veritatis qui quasi quo quaerat excepturi
-        asperiores ex quibusdam dolorum, quia, earum magnam culpa ad animi
-        laboriosam pariatur alias consequuntur.</p>
+    <div class="wrap-serv  wrap-plan  serv-container">
+      <div class="plantas" id="plantas">
+        <h2>PLANTAS HUMANIZADAS</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
+          Doloremque laudantium veritatis qui quasi quo quaerat excepturi
+          asperiores ex quibusdam dolorum, quia, earum magnam culpa ad animi
+          laboriosam pariatur alias consequuntur.</p>
+      </div>
+      <div class="plantas-img"></div>
     </div>
-    <div class="plantas-img"></div>
-    <div class="realidade-virtual" id="realidade">
-      <h2>REALIDADE VIRTUAL</h2>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
-        Doloremque laudantium veritatis qui quasi quo quaerat excepturi
-        asperiores ex quibusdam dolorum, quia, earum magnam culpa ad animi
-        laboriosam pariatur alias consequuntur.</p>
+    <div class="wrap-reverse-serv  wrap-real  serv-container">
+      <div class="realidade-virtual" id="realidade">
+        <h2>REALIDADE VIRTUAL</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
+          Doloremque laudantium veritatis qui quasi quo quaerat excepturi
+          asperiores ex quibusdam dolorum, quia, earum magnam culpa ad animi
+          laboriosam pariatur alias consequuntur.</p>
+      </div>
+      <div class="realidade-virtual-img"></div>
     </div>
-    <div class="realidade-virtual-img"></div>
   </section>
   <footer class="footer">
     <div class="logo-footer">
@@ -141,13 +149,13 @@
   <!--footer-->
   <!-- JavaScript -->
   <script>
-          window.addEventListener("load", function () {
-        const loader = document.querySelector(".pre-loader");
-        loader.className += " hidden";
-      });
-    </script>
-    <script src="./js/main.js"></script>
-    <script src="./js/servicos.js"></script>
+    window.addEventListener("load", function() {
+      const loader = document.querySelector(".pre-loader");
+      loader.className += " hidden";
+    });
+  </script>
+  <script src="./js/main.js"></script>
+  <script src="./js/servicos.js"></script>
   <!-- JavaScript -->
 </body>
 
