@@ -227,7 +227,7 @@
         <i class="fab fa-behance"></i>
       </div>
       <div class="icones-footer2">
-        <p>contato@blvdr.com.br</p>
+        <p>contato@blvd.com.br</p>
       </div>
     </div>
     <!--container-->

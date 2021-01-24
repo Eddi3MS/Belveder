@@ -63,9 +63,9 @@
   <section class="bg-contato">
     <img class="logotipo-contato" src="./img/avatar_bvd.png">
     <div class="contatos">
-      <p>contato@blvdr.com.br</p>
+      <p>contato@blvd.com.br</p>
       <p>Rio de Janeiro, Brasil</p>
-      <p>+55 (21) 965590857</p>
+      <p>+55 (99) 99999-9999</p>
       <div class="icones-contato">
         <i class="fab fa-instagram"></i>
         <i class="fab fa-facebook-f"></i>
@@ -89,7 +89,7 @@
         <i class="fab fa-behance"></i>
       </div>
       <div class="icones-footer2">
-        <p>contato@blvdr.com.br</p>
+        <p>contato@blvd.com.br</p>
       </div>
     </div>
     <!--container-->
