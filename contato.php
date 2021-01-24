@@ -16,10 +16,10 @@
 
 <body>
   <div class="pre-loader">
-    <img src="img/avatar_bvd.png" />
+    <img src="img/avatar_bvd.png" alt="loading-logo" />
   </div>
   <header class="header">
-    <div class="logo-header"><a href="/"><img src="./img/logo1.png" /></a></div>
+    <div class="logo-header"><a href="/"><img src="./img/logo1.png" alt="image-logo" /></a></div>
     <div class="nav-container">
       <nav class="navigation">
         <ul>
@@ -61,7 +61,7 @@
   </header>
   <!--header-->
   <section class="bg-contato">
-    <img class="logotipo-contato" src="./img/avatar_bvd.png">
+    <img class="logotipo-contato" src="./img/avatar_bvd.png" alt="logo-image">
     <div class="contatos">
       <p>contato@blvd.com.br</p>
       <p>Rio de Janeiro, Brasil</p>
@@ -78,7 +78,7 @@
   <section class="holder"></section>
   <footer class="footer">
     <div class="logo-footer">
-      <img src="./img/logo1.png" />
+      <img src="./img/logo1.png" alt="logo-footer" />
     </div>
     <div class="icones-footer">
       <div class="icones-footer1">

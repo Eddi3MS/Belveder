@@ -16,10 +16,10 @@
 
 <body>
   <div class="pre-loader">
-    <img src="img/avatar_bvd.png" />
+    <img src="img/avatar_bvd.png" alt="loading-logo"/>
   </div>
   <header class="header-black">
-    <div class="logo-header"><a href="/"><img src="./img/logo.png" /></a></div>
+    <div class="logo-header"><a href="/"><img src="./img/logo.png" alt="logo-image" /></a></div>
     <div class="nav-container">
       <nav class="navigation">
         <ul>
@@ -78,7 +78,7 @@
   </section>
   <section class="seletor">
 
-    <img src="img/avatar_black.png" alt="logo" />
+    <img src="img/avatar_black.png" alt="logo" alt="logo-image"/>
     <span style="font-weight:bold; color: #000; font-size: 28px; padding: 0 15px;">/</span>
     <i class="fas fa-chair"></i>
     <i class="far fa-building"></i>
@@ -216,7 +216,7 @@
 
   <footer class="footer">
     <div class="logo-footer">
-      <img src="./img/logo1.png" />
+      <img src="./img/logo1.png" alt="logo-footer" />
     </div>
     <div class="icones-footer">
       <div class="icones-footer1">

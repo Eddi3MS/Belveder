@@ -16,10 +16,10 @@
 
 <body>
   <div class="pre-loader">
-    <img src="img/avatar_bvd.png" />
+    <img src="img/avatar_bvd.png" alt="loading-logo" />
   </div>
   <header class="header">
-    <div class="logo-header"><a href="/"><img src="./img/logo1.png" /></a></div>
+    <div class="logo-header"><a href="/"><img src="./img/logo1.png" alt="logo-image" /></a></div>
     
       <nav class="navigation">
         <ul>
@@ -82,7 +82,7 @@
         Your browser does not support the video tag.
       </video>      
     </div>
-    <img class="logotipo" src="./img/avatar_bvd.png">
+    <img class="logotipo" src="./img/avatar_bvd.png" alt="logo-image" />
 
 
   </section>
@@ -90,7 +90,7 @@
   </section>
   <footer class="footer">
     <div class="logo-footer">
-      <img src="./img/logo1.png" />
+      <img src="./img/logo1.png" alt="logo-footer" />
     </div>
     <div class="icones-footer">
       <div class="icones-footer1">

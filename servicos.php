@@ -16,10 +16,10 @@
 
 <body>
   <div class="pre-loader">
-    <img src="img/avatar_bvd.png" />
+    <img src="img/avatar_bvd.png" alt="loading-image" />
   </div>
   <header class="header-black">
-    <div class="logo-header"><a href="/"><img src="./img/logo.png" /></a></div>
+    <div class="logo-header"><a href="/"><img src="./img/logo.png" alt="logo-image" /></a></div>
     <div class="nav-container">
       <nav class="navigation">
         <ul>
@@ -134,7 +134,7 @@
   </section>
   <footer class="footer">
     <div class="logo-footer">
-      <img src="./img/logo1.png" />
+      <img src="./img/logo1.png" alt="logo-footer" />
     </div>
     <div class="icones-footer">
       <div class="icones-footer1">
