@@ -67,7 +67,7 @@
         Your browser does not support the video tag.
       </video>
       <video muted playsinline id="projeto2" class="video-projeto  projeto2">
-        <source src="img/video.mp4" type="video/mp4">
+        <source src="https://de0dqb7pdorb1.cloudfront.net/611_hudson_www.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
       <video muted playsinline id="projeto3" class="video-projeto  projeto3">
