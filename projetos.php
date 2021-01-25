@@ -63,15 +63,15 @@
   <section class="principais">
     <div class="slider-projetos">
       <video autoplay muted playsinline id="projeto1" class="video-projeto  projeto1">
-        <source src="https://player.vimeo.com/external/293373377.sd.mp4?s=5b220dafbb717144d2e7a300cddda66c548d1616&profile_id=164&oauth2_token_id=57447761" type="video/mp4">
+        <source src="https://de0dqb7pdorb1.cloudfront.net/611_rain_www.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
       <video muted playsinline id="projeto2" class="video-projeto  projeto2">
-        <source src="https://player.vimeo.com/external/214504055.sd.mp4?s=e879e761715f2cd38af0baec842455562b85153f&profile_id=164&oauth2_token_id=57447761" type="video/mp4">
+        <source src="https://de0dqb7pdorb1.cloudfront.net/111_north2.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
       <video muted playsinline id="projeto3" class="video-projeto  projeto3">
-        <source src="https://player.vimeo.com/external/363737105.sd.mp4?s=ed5d8790d07ac8b5a7641fe4d816b00c1e049935&profile_id=139&oauth2_token_id=57447761" type="video/mp4">
+        <source src="https://de0dqb7pdorb1.cloudfront.net/cameraY_cinema_www2.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </div>
