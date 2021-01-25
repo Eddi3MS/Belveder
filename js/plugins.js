@@ -29,7 +29,7 @@ $.fn.cityButtons = function () {
     })
 
     const btnAll = $('<button>')
-        .addClass(['btn', 'btn-info', 'active']).html('Todas')
+        .addClass(['btn', 'btn-info', 'active']).html('Todos')
     btnAll.click(e => filterByCity(null))
     btns.push(btnAll)
 
