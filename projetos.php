@@ -78,12 +78,6 @@
   </section>
   <section class="seletor" wm-city-buttons>
 
-    <img src="img/avatar_black.png" alt="logo" alt="logo-image"/>
-    <span style="font-weight:bold; color: #000; font-size: 28px; padding: 0 15px;">/</span>
-    <i class="fas fa-chair"></i>
-    <i class="far fa-building"></i>
-    <i class="fab fa-youtube"></i>
-
   </section>
   <section class="galeria">
     <div class="i" wm-city="nuvens">
