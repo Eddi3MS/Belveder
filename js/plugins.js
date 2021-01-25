@@ -1,5 +1,3 @@
-import $ from './libs/jquery-3.5.1.min.js'
-
 const duration = 300
 
 function filterByCity(city) {
