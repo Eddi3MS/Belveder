@@ -85,7 +85,7 @@
         <source src="https://de0dqb7pdorb1.cloudfront.net/111_north2.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
-      <a href="/projetoX" target="_blank" title="link to a project">
+      <a href="/projetoX"  title="link to a project">
         <div class="cover-video">
           <div>
             <h3>Título do Projeto</h3>
@@ -99,7 +99,7 @@
         <source src="https://de0dqb7pdorb1.cloudfront.net/cameraY_cinema_www2.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
-      <a href="/projetoX" target="_blank" title="link to a project">
+      <a href="/projetoX"  title="link to a project">
         <div class="cover-video">
           <div>
             <h3>Título do Projeto</h3>
@@ -113,7 +113,7 @@
         <source src="https://de0dqb7pdorb1.cloudfront.net/611_rain_www.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
-      <a href="/projetoX" target="_blank" title="link to a project">
+      <a href="/projetoX"  title="link to a project">
         <div class="cover-video">
           <div>
             <h3>Título do Projeto</h3>
@@ -127,7 +127,7 @@
         <source src="https://de0dqb7pdorb1.cloudfront.net/611_rain_www.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
-      <a href="/projetoX" target="_blank" title="link to a project">
+      <a href="/projetoX"  title="link to a project">
         <div class="cover-video">
           <div>
             <h3>Título do Projeto</h3>
@@ -141,7 +141,7 @@
         <source src="https://de0dqb7pdorb1.cloudfront.net/111_north2.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
-      <a href="/projetoX" target="_blank" title="link to a project">
+      <a href="/projetoX"  title="link to a project">
         <div class="cover-video">
           <div>
             <h3>Título do Projeto</h3>
@@ -155,7 +155,7 @@
         <source src="https://de0dqb7pdorb1.cloudfront.net/cameraY_cinema_www2.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
-      <a href="/projetoX" target="_blank" title="link to a project">
+      <a href="/projetoX"  title="link to a project">
         <div class="cover-video">
           <div>
             <h3>Título do Projeto</h3>
@@ -169,7 +169,7 @@
         <source src="https://de0dqb7pdorb1.cloudfront.net/cameraY_cinema_www2.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
-      <a href="/projetoX" target="_blank" title="link to a project">
+      <a href="/projetoX"  title="link to a project">
         <div class="cover-video">
           <div>
             <h3>Título do Projeto</h3>
@@ -183,7 +183,7 @@
         <source src="https://de0dqb7pdorb1.cloudfront.net/611_rain_www.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
-      <a href="/projetoX" target="_blank" title="link to a project">
+      <a href="/projetoX"  title="link to a project">
         <div class="cover-video">
           <div>
             <h3>Título do Projeto</h3>
@@ -197,7 +197,7 @@
         <source src="https://de0dqb7pdorb1.cloudfront.net/111_north2.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
-      <a href="/projetoX" target="_blank" title="link to a project">
+      <a href="/projetoX"  title="link to a project">
         <div class="cover-video">
           <div>
             <h3>Título do Projeto</h3>
