@@ -63,15 +63,15 @@
   <section class="principais">
     <div class="slider-projetos">
       <video autoplay muted playsinline id="projeto1" class="video-projeto  projeto1">
-        <source src="https://de0dqb7pdorb1.cloudfront.net/611_rain_www.mp4" type="video/mp4">
+        <source src="./videos/video1.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
       <video muted playsinline id="projeto2" class="video-projeto  projeto2">
-        <source src="https://de0dqb7pdorb1.cloudfront.net/611_hudson_www.mp4" type="video/mp4">
+        <source src="./videos/video2.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
       <video muted playsinline id="projeto3" class="video-projeto  projeto3">
-        <source src="https://de0dqb7pdorb1.cloudfront.net/111_north2.mp4" type="video/mp4">
+        <source src="./videos/video3.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </div>
