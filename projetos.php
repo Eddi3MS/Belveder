@@ -243,6 +243,7 @@
   <script src="js/project-loader.js"></script>
   <script src="js/plugins.js"></script>
   <script src="./js/main.js"></script>
+  <script src="./js/libs/jquery-3.5.1.min.js"></script>
   <!-- JavaScript -->
 </body>
 

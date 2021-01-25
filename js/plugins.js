@@ -1,5 +1,3 @@
-import $ from 'jquery'
-
 const duration = 300
 
 function filterByCity(city) {
