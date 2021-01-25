@@ -27,13 +27,10 @@ video4.onended = function () {
   video1.style.opacity = 1;
 };
 
-/* 
-
-codepen pra pausar os videos.
 
 // for <video id="bgvid">
-var vid = document.getElementById("bgvid");
-var playButton = document.querySelector("#slider-play-button button");
+let vid = document.querySelectorAll("video");
+let playButton = document.querySelector("#PlayPause");
 
 
 playButton.addEventListener("click", function() {
@@ -46,7 +43,7 @@ playButton.addEventListener("click", function() {
 	playButton.classList.add("play-video-button");
     playButton.classList.remove("pause-video-button");
   }
-}); */
+});
 
 
 

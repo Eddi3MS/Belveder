@@ -61,6 +61,7 @@
   </header>
   <!--header-->
   <section class="full-page">
+    <button class="btn-index" id="PlayPause"><span><i class="fas fa-play"></i></span></button>
     <div class="slider-container">
       <video autoplay muted playsinline id="video1" class="index-videos  video1">
         <source src="https://de0dqb7pdorb1.cloudfront.net/StRegis_cinemagraph_www.mp4" type="video/mp4">
