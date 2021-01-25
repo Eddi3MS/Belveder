@@ -80,7 +80,7 @@
 
   </section>
   <section class="galeria">
-    <div class="i" wm-city="nuvens">
+    <div class="i" wm-city="edificio">
       <video muted loop autoplay playsinline id="galeria-videos" class="galeria-videos">
         <source src="https://de0dqb7pdorb1.cloudfront.net/111_north2.mp4" type="video/mp4">
         Your browser does not support the video tag.
@@ -94,7 +94,7 @@
         </div>
       </a>
     </div>
-    <div class="i" wm-city="cinema">
+    <div class="i" wm-city="praia">
       <video muted loop autoplay playsinline id="galeria-videos" class="galeria-videos">
         <source src="https://de0dqb7pdorb1.cloudfront.net/cameraY_cinema_www2.mp4" type="video/mp4">
         Your browser does not support the video tag.
@@ -108,7 +108,7 @@
         </div>
       </a>
     </div>
-    <div class="i" wm-city="rain">
+    <div class="i" wm-city="chuva">
       <video muted loop autoplay playsinline id="galeria-videos" class="galeria-videos">
         <source src="https://de0dqb7pdorb1.cloudfront.net/611_rain_www.mp4" type="video/mp4">
         Your browser does not support the video tag.
@@ -122,7 +122,7 @@
         </div>
       </a>
     </div>
-    <div class="i" wm-city="rain">
+    <div class="i" wm-city="chuva">
       <video muted loop autoplay playsinline id="galeria-videos" class="galeria-videos">
         <source src="https://de0dqb7pdorb1.cloudfront.net/611_rain_www.mp4" type="video/mp4">
         Your browser does not support the video tag.
@@ -136,7 +136,7 @@
         </div>
       </a>
     </div>
-    <div class="i" wm-city="nuvens">
+    <div class="i" wm-city="edificio">
       <video muted loop autoplay playsinline id="galeria-videos" class="galeria-videos">
         <source src="https://de0dqb7pdorb1.cloudfront.net/111_north2.mp4" type="video/mp4">
         Your browser does not support the video tag.
@@ -150,7 +150,7 @@
         </div>
       </a>
     </div>
-    <div class="i" wm-city="cinema">
+    <div class="i" wm-city="praia">
       <video muted loop autoplay playsinline id="galeria-videos" class="galeria-videos">
         <source src="https://de0dqb7pdorb1.cloudfront.net/cameraY_cinema_www2.mp4" type="video/mp4">
         Your browser does not support the video tag.
@@ -164,7 +164,7 @@
         </div>
       </a>
     </div>
-    <div class="i" wm-city="cinema">
+    <div class="i" wm-city="praia">
       <video muted loop autoplay playsinline id="galeria-videos" class="galeria-videos">
         <source src="https://de0dqb7pdorb1.cloudfront.net/cameraY_cinema_www2.mp4" type="video/mp4">
         Your browser does not support the video tag.
@@ -178,7 +178,7 @@
         </div>
       </a>
     </div>
-    <div class="i" wm-city="rain">
+    <div class="i" wm-city="chuva">
       <video muted loop autoplay playsinline id="galeria-videos" class="galeria-videos">
         <source src="https://de0dqb7pdorb1.cloudfront.net/611_rain_www.mp4" type="video/mp4">
         Your browser does not support the video tag.
@@ -192,7 +192,7 @@
         </div>
       </a>
     </div>
-    <div class="i" wm-city="nuvens">
+    <div class="i" wm-city="edificio">
       <video muted loop autoplay playsinline id="galeria-videos" class="galeria-videos">
         <source src="https://de0dqb7pdorb1.cloudfront.net/111_north2.mp4" type="video/mp4">
         Your browser does not support the video tag.
