@@ -76,7 +76,7 @@
       </video>
     </div>
   </section>
-  <section class="seletor">
+  <section class="seletor" wm-city-buttons>
 
     <img src="img/avatar_black.png" alt="logo" alt="logo-image"/>
     <span style="font-weight:bold; color: #000; font-size: 28px; padding: 0 15px;">/</span>
@@ -241,6 +241,7 @@
     });
   </script>
   <script src="js/project-loader.js"></script>
+  <script src="js/plugins.js"></script>
   <script src="./js/main.js"></script>
   <!-- JavaScript -->
 </body>
